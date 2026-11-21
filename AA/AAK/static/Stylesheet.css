@@ -1,0 +1,25 @@
+.first{
+    background-color: #0ad9ec;
+}
+table{
+    border-color: #117fa4;
+}
+.lo{
+    width: 750px; 
+    height: 150px;
+}
+th{
+    padding: 10px;
+}
+.Sec{
+    background-color: #0ad9ecc0;
+}
+td{
+    padding: 12px;
+}
+.name{
+    color: #003b89;
+    font-size: 20px;
+}
+
+
